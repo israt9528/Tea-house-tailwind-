@@ -4,3 +4,11 @@
 .manrope_font {
   font-family: "Manrope", sans-serif;
 }
+
+.bg-ig {
+  background-image: url(/images/bg_cup.png),
+ linear-gradient(270.00deg, rgba(255, 0, 0, 1),rgba(255, 137.00003051757812, 55.999996185302734, 1) 100%);
+ background-repeat: no-repeat;
+ background-position-x: 25%;
+background-position-y: bottom;
+}
