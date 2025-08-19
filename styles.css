@@ -12,3 +12,8 @@
  background-position-x: 25%;
 background-position-y: bottom;
 }
+@media screen and (max-width:768px) {
+  .bg-ig{
+    background-position: 80% 30%;
+  }
+}
