@@ -17,3 +17,8 @@ background-position-y: bottom;
     background-position: 80% 30%;
   }
 }
+
+
+body {
+  overflow-x: hidden;
+}
